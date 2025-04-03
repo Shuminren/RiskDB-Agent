@@ -33,12 +33,3 @@ Welcome to DRPMDB-Agent! This is a tool designed for building domain-specific bi
 
 5. **Output Results**  
    The tool will save the generated data in the local directory.
-
----
-
----
-
-### Notes
-- I added a hyperlink to "OpenAI" in the Markdown version for convenience, assuming users might want to visit the site directly.
-- The structure follows standard Markdown conventions with headers, lists, and code blocks for clarity.
-- Let me know if you’d like any adjustments or additional formatting!
