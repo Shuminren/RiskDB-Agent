@@ -1,15 +1,14 @@
-**DRPMDB-Agent**
+**RiskDB-Agent**
 
-Welcome to DRPMDB-Agent! This is a tool designed for building domain-specific biomedical databases, particularly tailored for processing literature data. With this tool, you can easily create and update your own biomedical database, making it especially suitable for handling large-scale literature data.
+Welcome to RiskDB-Agent! This is a tool designed for building domain-specific biomedical databases, particularly tailored for processing literature data. With this tool, you can easily create and update your own biomedical database, making it especially suitable for handling large-scale literature data.
 
 **Usage Steps**
 
 1. **Configure PMID List**  
-   Before using DRPMDB-Agent, you first need to prepare a list of PMIDs. Ensure that the PMID list is saved in the `PMID.txt` format.  
+   Before using RiskDB-Agent, you first need to prepare a list of PMIDs. Ensure that the PMID list is saved in the `PMID.txt` format.  
 
    **Example format of PMID.txt:**  
    ```
-   12345678
    23456789
    34567890
    ```  
@@ -22,8 +21,8 @@ Welcome to DRPMDB-Agent! This is a tool designed for building domain-specific bi
    - Configure your API key in the tool’s configuration file.
 
 3. **Configure and Run**  
-   After preparing `PMID.txt` and configuring the ChatGPT-4o API key, open a command-line terminal and navigate to the DRPMDB-Agent folder.  
-   Run the following command to start using DRPMDB-Agent:  
+   After preparing `PMID.txt` and configuring the ChatGPT-4o API key, open a command-line terminal and navigate to the RiskDB-Agent folder.  
+   Run the following command to start using RiskDB-Agent:  
    ```
    python main.py
    ```
