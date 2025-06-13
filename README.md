@@ -1,6 +1,6 @@
-**RiskDB-Agent**
+**RiskDB-LLM**
 
-Welcome to RiskDB-Agent! This is a tool designed for building domain-specific biomedical databases, particularly tailored for processing literature data. With this tool, you can easily create and update your own biomedical database, making it especially suitable for handling large-scale literature data.
+Welcome to RiskDB-LLM! This is a tool designed for building domain-specific biomedical databases, particularly tailored for processing literature data. With this tool, you can easily create and update your own biomedical database, making it especially suitable for handling large-scale literature data.
 
 **Usage Steps**
 
